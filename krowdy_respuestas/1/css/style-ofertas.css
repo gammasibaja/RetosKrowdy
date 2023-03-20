@@ -1,0 +1,246 @@
+.uno, .ocho{
+    background-color: #343477;
+    
+}
+.dos, .cuatro, .cinco, .siete, .once, .doce{
+    background-color: #FFF38F;
+}
+.uno{
+    margin-top: 40px;
+}
+.usuario{
+    Width:60px;
+    Height:60px;
+    margin-top: 14px;
+    margin-left: 20px;;
+}
+.tres{
+    background-color: rgba(255, 213, 0, 1);
+}
+.seis{
+   background-color: rgba(255, 97, 226, 1); 
+}
+h1{
+    font-size: small;
+}
+
+.element2{
+    margin-left: 100px;
+}
+.boton-registrar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left:450px;
+    margin-bottom: 28px;
+}
+
+.white{
+    font-family: 'Nunito';
+    font-style: normal;
+
+
+    color: #FFFFFF;
+}
+
+.singin{
+    margin-left: -20px;
+}
+.elementos{
+    display: flex;
+    width: 1114px;
+    height: 82px;
+    flex-direction: column;
+    align-items: center;
+   margin-left: -750px;
+   
+   left: calc(50% - 435px/2 + 9.5px);
+   position: relative;
+    
+}
+.circulito{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+.arriba{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.rop{
+    width: 150px;
+    height: 40px;
+    background-color: #FFFFFF;
+    position: relative;
+    border-radius: 32px;
+    margin-left: 11px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 0px 1px #DDDDDD, 0px 2px 4px rgba(0, 0, 0, 0.07), 0px 1px 1.5px rgba(0, 0, 0, 0.05);
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+}
+
+.ultimo{
+    margin-left: 1450px;
+    position: absolute;
+}
+
+.emojis{
+    margin-left: 10px;
+}
+.flecha{
+    width: 15px;
+    height: 10px;
+    position: relative;
+    margin-left: 40px;
+}
+.abajo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+}
+.rop2{
+    width: 115px;
+    height: 40px; 
+    background: rgba(255, 255, 255, 0.5);
+    mix-blend-mode: luminosity;
+    border: 2px dashed rgba(221, 221, 221, 0.5);
+    border-radius: 32px;
+    margin-top: 10px;
+    margin-bottom: 80px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.primero{
+    margin-left: 550px;
+    
+}
+.apply{
+    margin-left: -60px;
+    
+}
+.apply123{
+    opacity: 0;
+    transition: opacity 0.3s ease-in-ou
+}
+.apply123:hover{
+    opacity: 1;
+}
+.applyuno{
+    margin-left: 700px;
+}
+.applydos{
+    margin-left: 725px;
+}
+.applytres{
+    margin-left: 655px;
+}
+.applycuatro{
+    margin-left: 690px;
+}
+.applycinco{
+    margin-left: 650px;
+}
+.applyseis{
+    margin-left: 632px;
+}
+.applysiete{
+    margin-left: 692px;
+}
+.applyocho{
+    margin-left: 702px;
+}
+.applynueve{
+    margin-left: 675px;
+}
+.applydiez{
+    margin-left: 675px;
+}
+.applyonce{
+    margin-left: 642px;
+}
+.applydoce{
+    margin-left: 590px;
+}
+.menu {
+    position: relative;
+    top: 100%;
+    left: 0;
+    
+    z-index: 1;
+    /* Estilos adicionales para el menú */
+    width: 1114px;
+    height: 2980px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   margin-left: -540px;
+   left: calc(50% - 435px/2 + 9.5px);
+}
+
+.anuncio{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 260px;
+    margin-top: 30px;
+}
+.primera-parte{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-left: 200px;
+}
+.izquierdo{
+    width: 677px;
+    height: 724px;
+}
+.derecho{
+    width: 361px;
+    height: 740px;
+}
+.segunda-parte{
+    width: 1020px;
+    height: 2881px;
+    margin-top: -260px;
+    margin-left: 200px;
+}
+
+.tercera-parte{
+    width: 1020px;
+    height: 479px;
+
+    margin-top: -900px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.identidad{
+    width: 361px;
+    height: 500px;
+
+    background: rgba(217, 217, 217, 0.1);
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+}
+.cartel{
+    width: 1020px;
+    height: 479px;
+    
+    margin-left: 250px;
+    
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
